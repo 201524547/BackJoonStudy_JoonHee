@@ -2,16 +2,6 @@
 
 using namespace std;
 
-int getDigit(int k, int i){
-	
-	int iDigit;
-	
-	iDigit = k / 10^i;
-	
-	return iDigit;
-	
-}
-
 int main(){
 	
 	int a;
